@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap");
+
+.App {
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+}
+
+.head {
+  background-color: #e11d48;
+  display: block;
+  padding: 2rem;
+  border-bottom-left-radius: 2rem;
+}
+
+.list {
+  display: inline;
+  padding: 0.5rem;
+}
+
+button {
+  padding: 1rem;
+  background-color: #e11d48;
+  color: white;
+  font-size: large;
+  border-radius: 1rem;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+.lists {
+  list-style-type: none;
+}
+
+.list-block {
+  padding: 0.5rem;
+  border: solid 2px black;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 1rem;
+}
